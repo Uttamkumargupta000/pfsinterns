@@ -6,8 +6,8 @@ function dis(val){
 function slove(){
     const display = document.getElementById('result');
     let x = display.value;
-     let y = eval(x);
-     display.value = y;
+    let y = eval(x);
+    display.value = y;
 }
 
 function del(){
