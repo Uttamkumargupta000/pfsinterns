@@ -22,7 +22,11 @@ Screenshots
 
    Desktop View: <br> <br>
    <img src="Images/Desktop.png" width="900px" height="500px">
+   <br> <br>
+   <br> <br>
     Tablet View:  <br> <br>
+    <br> <br>
+    <br> <br>
    <img src="Images/Tab.png" width="900px" height="600px">
 
    # Project
