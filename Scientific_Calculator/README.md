@@ -23,10 +23,11 @@ Technologies Used
    ### Desktop View: <br> <br>
    <img src="Images/Desktop.png" width="900px" height="500px">
    <br> <br>
+
    ### Tablet View: 
     <br> <br>
    <img src="Images/Tab.png" width="700px" height="600px">
 
-   # Project
+   ## Project
 
    [Visit Scientific_Calculator](https://github.com/Uttamkumargupta000/pfsinterns/tree/main/Scientific_Calculator)
