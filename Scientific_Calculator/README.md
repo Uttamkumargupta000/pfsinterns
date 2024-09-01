@@ -24,8 +24,7 @@ Technologies Used
    <img src="Images/Desktop.png" width="900px" height="500px">
    <br> <br>
 
-   ### Tablet View: 
-    <br> <br>
+   ### Tablet View:  <br> <br>
    <img src="Images/Tab.png" width="700px" height="600px">
 
    ## Project
