@@ -18,12 +18,12 @@ Technologies Used
    CSS3: For styling, including responsive adjustments with media queries.
    JavaScript: To handle the calculator's logic and functionality, including handling scientific functions.
 
-Screenshots
+## Screenshots
 
-   Desktop View: <br> <br>
+   ### Desktop View: <br> <br>
    <img src="Images/Desktop.png" width="900px" height="500px">
    <br> <br>
-    Tablet View:  <br> <br>
+   ### Tablet View: 
     <br> <br>
    <img src="Images/Tab.png" width="700px" height="600px">
 
