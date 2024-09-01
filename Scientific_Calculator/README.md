@@ -21,9 +21,9 @@ Technologies Used
 Screenshots
 
    Desktop View: <br> <br>
-   <img src="Images/Desktop.png" width="900px" height="400px">
-    Tablet View:
-   <img src="Images/Tab.png" width="900px" height="400px">
+   <img src="Images/Desktop.png" width="900px" height="500px">
+    Tablet View:  <br> <br>
+   <img src="Images/Tab.png" width="900px" height="600px">
 
    # Project
 
