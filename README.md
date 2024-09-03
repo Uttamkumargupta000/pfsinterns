@@ -12,7 +12,7 @@ Visit here
 [Visit Scientific_Calculator](https://github.com/Uttamkumargupta000/pfsinterns/tree/main/Scientific_Calculator)
 
 
-## Project 2
+## Project 3
 
 Visit here 
 [Chat_App](https://github.com/Uttamkumargupta000/pfsinterns/tree/main/Chat_App)
