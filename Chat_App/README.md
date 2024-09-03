@@ -37,7 +37,7 @@ Follow these instructions to set up the project on your local machine.
 
 1. **Clone the Repository:**
  
-    ```git clone https://github.com/Uttamkumargupta000/pfsinterns.git ```
+    ```git clone https://github.com/Uttamkumargupta000/pfsinterns.git```
 
 
 ## Screenshots
@@ -45,5 +45,8 @@ Follow these instructions to set up the project on your local machine.
    <img src="Images/pic1.png" width="900px" height="500px">
    <br> <br>
 
-### Link for The Project 
-     [Visit Scientific_Calculator](https://github.com/Uttamkumargupta000/pfsinterns/tree/main/Scientific_Calculator)
+
+
+## Link for The Project 
+
+[Chat_App](https://github.com/Uttamkumargupta000/pfsinterns/tree/main/Chat_App)
